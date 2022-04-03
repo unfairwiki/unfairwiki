@@ -4,8 +4,8 @@
 
 # Site
 title: 民中维基
-subtitle: ''
-description: ''
+subtitle: '封闭的维基百科'
+description: '记录人间废物'
 keywords:
 author: unfairwiki
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://hexo.unfairwiki.ga
+url: http://example.com
 permalink: wiki/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,16 +96,12 @@ include:
 exclude:
 ignore:
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: Wikitten
-
 ## Markdown
 ## https://github.com/hexojs/hexo-renderer-marked
 marked:
   gfm: true
-  
+
+# Extensions
 ## Plugins: https://hexo.io/plugins/
 ### JsonContent
 jsonContent:
@@ -129,10 +125,10 @@ jsonContent:
 sitemap:
   path: sitemap.xml
 
+## Themes: https://hexo.io/themes/
+theme: Wikitten
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: git@github.com:unfairwiki/unfairwiki_page.git
-  branch: main
+  type: ''
