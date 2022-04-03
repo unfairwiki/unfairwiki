@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://hexo.unfairwiki.ga
-permalink: :year/:month/:day/:title/
+permalink: wiki/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -29,6 +29,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - README.md
+  - '_posts/**/embed_page/**'
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -99,7 +101,38 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: Wikitten
 
+## Markdown
+## https://github.com/hexojs/hexo-renderer-marked
+marked:
+  gfm: true
+  
+## Plugins: https://hexo.io/plugins/
+### JsonContent
+jsonContent:
+  meta: false
+  pages:
+    title: true
+    date: true
+    path: true
+    text: true
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    tags: true
+    categories: true
+  ignore:
+    - 404.html
+    
+### Creat sitemap
+sitemap:
+  path: sitemap.xml
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: git@github.com:unfairwiki/unfairwiki_page.git
+  branch: main
