@@ -1,4 +1,4 @@
-name: wiki_Hexo Deploy
+name: Wiki Hexo Deploy
 
 on:
   push:
