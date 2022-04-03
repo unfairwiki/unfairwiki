@@ -132,5 +132,5 @@ theme: Wikitten
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:unfairwiki/unfairwiki.git
+  repo: git@github.com:unfairwiki/unfairwiki_page.git
   branch: main
