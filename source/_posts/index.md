@@ -28,6 +28,30 @@ categories:
 <big><strong>特色条目</strong></big>
 <table style="border:2px solid #66B2FF;border-radius: 5px;">
 <tbody><tr>
+<td style="border:2px solid #66B2FF;border-radius: 5px;"><a target="_blank" rel="noopener" href="https://github.com/unfairwiki/unfairwiki/raw/images/彭学军.jpeg" class="image"><img alt="彭学军.jpeg" src="https://github.com/unfairwiki/unfairwiki/raw/images/彭学军.jpeg" decoding="async" width="200" height="131" srcset="https://github.com/unfairwiki/unfairwiki/raw/images/彭学军.jpeg"><span class="caption"></span></a></td>
+<td><b><a href="/wiki/彭学军" title="彭学军">彭学军</a></b>，（1970.09.21-），
+<p>
+</p>
+</td></tr>
+<tr>
+<td style="border:2px solid #66B2FF;border-radius: 5px;"><a target="_blank" rel="noopener" href="https://github.com/unfairwiki/unfairwiki/raw/images/向前东.jpg" class="image"><img alt="向前东.jpeg" src="https://github.com/unfairwiki/unfairwiki/raw/images/向前东.jpg" decoding="async" width="200" height="131" srcset="https://github.com/unfairwiki/unfairwiki/raw/images/向前东.jpg"><span class="caption"></span></a></td>
+<td><b><a href="/wiki/向前东" title="向前东">向前东</a></b>，（1965.06.15-），
+<p>
+</p>
+</td></tr>
+<tr>
+<td style="border:2px solid #66B2FF;border-radius: 5px;"><a target="_blank" rel="noopener" href="https://github.com/unfairwiki/unfairwiki/raw/images/向志华.jpg" class="image"><img alt="向志华.jpeg" src="https://github.com/unfairwiki/unfairwiki/raw/images/向志华.jpg" decoding="async" width="200" height="131" srcset="https://github.com/unfairwiki/unfairwiki/raw/images/向志华.jpg"><span class="caption"></span></a></td>
+<td><b><a href="/wiki/向志华" title="向志华">向志华</a></b>，（1970.09.21-），
+<p>
+</p>
+</td></tr>
+<tr>
+<td style="border:2px solid #66B2FF;border-radius: 5px;"><a target="_blank" rel="noopener" href="https://github.com/unfairwiki/unfairwiki/raw/images/郑英滨.jpg" class="image"><img alt="郑英滨.jpeg" src="https://github.com/unfairwiki/unfairwiki/raw/images/郑英滨.jpg" decoding="async" width="200" height="131" srcset="https://github.com/unfairwiki/unfairwiki/raw/images/郑英滨.jpg"><span class="caption"></span></a></td>
+<td><b><a href="/wiki/郑英滨" title="郑英滨">郑英滨</a></b>，（1962.11.24-），
+<p>
+</p>
+</td></tr>
+<tr>
 <td style="border:2px solid #66B2FF;border-radius: 5px;"><a href="https://github.com/unfairwiki/unfairwiki/raw/images/Dxy.jpg" class="image"><img alt="Dxy.jpg" src="https://github.com/unfairwiki/unfairwiki/raw/images/Dxy.jpg" decoding="async" width="200" height="131" srcset="https://github.com/unfairwiki/unfairwiki/raw/images/Dxy.jpg"></a></td>
 <td><b><a href="/wiki/%E4%B8%81%E5%B0%8F%E8%8B%B1" title="丁小英">丁小英</a></b>，（1975.12.08-1919.8.10），
 <p>扶男棘手淫，现居住于刚果雨林内的一个搞基豪筏撤硕，毕业于下北泽女子妓术学院，工作于湘西州冥族中学，兼职湘西州冥族中学地下妓院院长及其招牌女优...
