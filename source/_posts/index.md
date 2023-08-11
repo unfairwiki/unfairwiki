@@ -63,11 +63,6 @@ categories:
 <p>扶男棘手淫，现居住于刚果雨林内的一个搞基豪筏撤硕，毕业于下北泽女子妓术学院，工作于湘西州冥族中学，兼职湘西州冥族中学地下妓院院长及其招牌女优...
 </p>
 </td></tr>
-<tr>
-<td style="border:2px solid #66B2FF;border-radius: 5px;"><a href="https://github.com/unfairwiki/unfairwiki/raw/images/YuanLi.jpg" class="image"><img alt="YuanLi.jpg" src="https://github.com/unfairwiki/unfairwiki/raw/images/YuanLi.jpg" decoding="async" width="200" height="133" srcset="https://github.com/unfairwiki/unfairwiki/raw/images/YuanLi.jpg"></a></td>
-<td><b><a href="/wiki/%E8%A2%81%E7%90%86" title="袁理">袁理</a></b>，（1989.09-），
-<p>张家界人</p>
-</td></tr>
 </tbody></table>
 </div>
 </div>
