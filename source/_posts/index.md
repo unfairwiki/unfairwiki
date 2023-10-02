@@ -59,7 +59,7 @@ categories:
 </td></tr>
 <tr>
 <td style="border:2px solid #66B2FF;border-radius: 5px;"><a href="https://github.com/unfairwiki/unfairwiki/raw/images/Dxy.jpg" class="image"><img alt="Dxy.jpg" src="https://github.com/unfairwiki/unfairwiki/raw/images/Dxy.jpg" decoding="async" width="200" height="131" srcset="https://github.com/unfairwiki/unfairwiki/raw/images/Dxy.jpg"></a></td>
-<td><b><a href="/wiki/%E4%B8%81%E5%B0%8F%E8%8B%B1" title="丁小英">丁小英</a></b>，（1975.04.08-1919.8.10），
+<td><b><a href="/wiki/%E4%B8%81%E5%B0%8F%E8%8B%B1" title="丁小英">丁小英</a></b>，（1975.12.15-1919.8.10），
 <p>扶男棘手淫，现居住于刚果雨林内的一个搞基豪筏撤硕，毕业于下北泽女子妓术学院，工作于湘西州冥族中学，兼职湘西州冥族中学地下妓院院长及其招牌女优...
 </p>
 </td></tr>
